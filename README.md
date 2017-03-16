@@ -4,11 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Objects
-	* Properties
-	* Methods
-	* for in loop
-	* dot notation vs bracket notation
+	* Objects - collections of "variables" that are related in some way.  By placing these "variables" called properties and their corresponding values into an object, you are able to select the group of properties by referring to the object itself
+	* Properties - Properties are like variables for an object.  They are variables related to an object and are assigned a specified value.
+	* Methods - functions within an object
+	* for in loop - used to search for a specied property in a specied object. 
+	* dot notation vs bracket notation - ways to refer or to call specific properties within an object.  Use dot notation, unless you aren't able to (ex: you can't use dot notation on variables, or integers).
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
